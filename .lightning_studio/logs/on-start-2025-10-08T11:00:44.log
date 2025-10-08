@@ -1,0 +1,8 @@
+Collecting xgboost==2.0.2
+  Downloading xgboost-2.0.2-py3-none-manylinux2014_x86_64.whl.metadata (2.0 kB)
+Requirement already satisfied: numpy in /home/zeus/miniconda3/envs/cloudspace/lib/python3.12/site-packages (from xgboost==2.0.2) (1.26.4)
+Requirement already satisfied: scipy in /home/zeus/miniconda3/envs/cloudspace/lib/python3.12/site-packages (from xgboost==2.0.2) (1.11.4)
+Downloading xgboost-2.0.2-py3-none-manylinux2014_x86_64.whl (297.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 297.1/297.1 MB 143.5 MB/s  0:00:01
+Installing collected packages: xgboost
+Successfully installed xgboost-2.0.2
